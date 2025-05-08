@@ -18,6 +18,9 @@ jobs:
         dotnet-version: '9.0.103'
         include-prerelease: false
 
+    - name: Verify icon.png presence
+      run: ls -l Media/icon.png
+
     - name: Build with dotnet
       run: dotnet build --configuration Release
 
