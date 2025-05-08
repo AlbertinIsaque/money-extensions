@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>MoneyExtensions</PackageId>
+    <PackageId>MoneyExtensions.Isaque</PackageId>
     <Version>1.0.1</Version>
     <Authors>Isaque Albertini</Authors>
     <Company>balta.io</Company>
