@@ -13,7 +13,7 @@
     <RepositoryUrl>https://github.com/AlbertinIsaque/money-extensions.git</RepositoryUrl>
     <PackageProjectUrl>https://github.com/AlbertinIsaque/money-extensions.git</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageIcon>../Media/icon.png</PackageIcon>
+    <!--<PackageIcon>../Media/icon.png</PackageIcon>--> 
     <PackageTags>money;int;decimal;converter</PackageTags>
     <Title>MoneyExtensions</Title>
   </PropertyGroup>
